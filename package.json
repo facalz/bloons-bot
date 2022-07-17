@@ -1,0 +1,18 @@
+{
+  "name": "bloons-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/facalz/bloons-bot.git",
+  "author": "Facal <facaldev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "discord.js": "^13.9.0",
+    "dotenv": "^16.0.1",
+    "quick.db": "^9.0.5"
+  }
+}
